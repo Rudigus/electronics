@@ -1,0 +1,7 @@
+*.err
+*.hex
+*.map
+*.mcs
+*.o
+*.PWI
+*.DBK
